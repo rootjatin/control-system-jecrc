@@ -1,0 +1,4 @@
+sympy==1.4
+z3==0.2.0
+Flask==1.1.1
+Flask-RESTful==0.3.8
